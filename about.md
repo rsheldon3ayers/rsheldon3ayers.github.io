@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Alt text](http://gravatar.com/avatar/a4dd093ba8a4386ccd37f3e721e9f2c4?s=200)
 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'll out more info here soon.  I promise.
