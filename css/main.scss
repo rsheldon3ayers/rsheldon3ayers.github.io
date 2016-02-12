@@ -3,6 +3,7 @@
 ---
 @charset "utf-8";
 @import '../_sass/bootstrap';
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
 
 
 
@@ -16,7 +17,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: 	#F5DEB3;
+$background-color: 	#FFFFFF;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
@@ -28,7 +29,14 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+//
+.site-subtitle {
+  float: left;
 
+}
+.make-bigger{
+  font-size: 100px;
+}
 
 
 // Use media queries like this:

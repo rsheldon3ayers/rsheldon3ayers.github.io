@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -5809,6 +5810,12 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.site-subtitle {
+  float: left; }
+
+.make-bigger {
+  font-size: 100px; }
+
 /**
  * Reset some basic elements
  */
@@ -5824,7 +5831,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "Goudy Bookletter 1911", serif;
   color: #111;
-  background-color: #F5DEB3;
+  background-color: #FFFFFF;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -5959,20 +5966,26 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 15px solid #424242;
   min-height: 56px;
   position: relative; }
 
 .site-title {
-  font-size: 26px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 64px;
   font-weight: 300;
-  line-height: 56px;
+  line-height: 64px;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
     color: #424242; }
+
+.site-subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  font-weight: 200;
+  position: relative; }
 
 .site-nav {
   float: right;
@@ -5989,7 +6002,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #F5DEB3;
+      background-color: #FFFFFF;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -6023,7 +6036,6 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
   padding: 30px 0; }
 
 .footer-heading {

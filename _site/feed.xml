@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Ayers</title>
-    <description>My personal blog/resume.
+    <description>My resume.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 12:38:48 -0600</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 12:38:48 -0600</lastBuildDate>
+    <pubDate>Thu, 11 Feb 2016 20:22:15 -0600</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2016 20:22:15 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -15,6 +15,7 @@
         <description>&lt;p&gt;I have started to build this site with Jekyll and there is a bit of a learning curve.  First, I want to push myself to learn Markdown, which doesn’t seem to be too lofty a goal.  Markdown is intended to save time.  So, I consider it worth the effort to learn it.  Second, jekyll has a lot of cool tools that I need to wrap my head around.&lt;/p&gt;
 
 &lt;p&gt;As an apprentice developer at Nashville Software School I’ve learned a lot in 4 months and I am eager to stretch my mind and expand my skill set.&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 12 Jan 2016 00:00:00 -0600</pubDate>
         <link>http://yourdomain.com/2016/01/12/figuring-things-out.html</link>
