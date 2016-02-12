@@ -24,10 +24,18 @@
         color: $grey-color-dark;
     }
 }
+.bio {
+    font-weight: 250;
+    margin-top: 2px;
+
+}
 .site-subtitle {
     font-family: 'Oswald', sans-serif;
-    font-size: 32px;
+    font-size: 20px;
+    line-height: 64px;
     font-weight: 200;
+    margin-top: 18px;
+    margin-left: 10px;
     position: relative;
 }
 .site-nav {
