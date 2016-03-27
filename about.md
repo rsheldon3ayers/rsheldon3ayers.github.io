@@ -4,8 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-![Alt text](http://gravatar.com/avatar/a4dd093ba8a4386ccd37f3e721e9f2c4?s=200)
+Co:Read
 
+I needed an app that helped me get the most out of the books I read.  The app generates a quiz based on the notes you take.  In order to continue taking notes you must successfully complete the quiz.  I built it using Angular, Bootstrap and Firebase.
 
+Check it out for yourself [here](<https://co-read-quiz.firebaseapp.com/?#/QuizApp/login').
+Checkout the code on [github](https://github.com/rsheldon3ayers/capstone).
 
-I'll out more info here soon.  I promise.
+Lives of The Poets
+
+This is a digitized abridgement of Dr. Johnson's seminal work on the most siginificant poets of the eighteenth century. I used Node, Express and MongoDB on the back-end and Foundation for styling purposes.
+
+It's a work in progress.  Checkout it out on [github](https://github.com/rsheldon3ayers/lives-of-the-poets).
