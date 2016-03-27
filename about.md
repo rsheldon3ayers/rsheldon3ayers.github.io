@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
 ![Alt text](http://gravatar.com/avatar/a4dd093ba8a4386ccd37f3e721e9f2c4?s=200)
