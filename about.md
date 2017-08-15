@@ -1,18 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Blog
+permalink: /Blog/
 ---
 
-Co:Read
+This is not an argument anyone can win.  Events do not prove your side and disprove the other side.  Events are not caused by ideas.  They are caused by people.  The shooting of Republicans by a Bernie supporter and the violence in Cville are both seen as huge opportunities to put the other side's argument to rest once and for all.  But it never works our that way.  There will always be another argument, another way around criticism.  The more extreme the accusations against the other side the more extreme the certainty that your side has won once and for all, or at least should win.  And when it doesn't work out that way the disappointment is as intense as the certainty, and the indignation is outrageous.  The sense of injustice - fear, even - demands that something extraordinary be done.  
 
-I needed an app that helped me get the most out of the books I read.  The app generates a quiz based on the notes you take.  In order to continue taking notes you must successfully complete the quiz.  I built it using Angular, Bootstrap and Firebase.
+This will continue. For there is no way for it to end.  Surrender isn't really part of the vocabulary.  
 
-Check it out for yourself [here](https://co-read-quiz.firebaseapp.com/?#/QuizApp/login).
-Checkout the code on [github](https://github.com/rsheldon3ayers/capstone).
-
-Lives of The Poets
-
-This is a digitized abridgment of Dr. Johnson's seminal work on the most significant poets of the eighteenth century. I used Node, Express and MongoDB on the back-end and Foundation for styling purposes.
-
-It's a work in progress.  Check it out on [github](https://github.com/rsheldon3ayers/lives-of-the-poets).
+Is the fight between right and left? left and liberal? liberal conservative and liberal liberal; is it liberal vs. neoliberal? or liberal vs socialist/fascist/populist/whatever?  The great failure this go-around was when the latter terms, used to make a group toxic to reasonable people, failed.   In the spirit of the age of authenticity and speaking your own truth, people decided to fess up: "I AM a populist", "I AM a socialist", "Who are YOU to judge?" If there is anything we have learned in the past 50 years or so it's to expect what is unacceptable today in polite society can be The Cause tomorrow.  Remember, History is an arc, like a bow. We are all trying to choose the arrow.  
